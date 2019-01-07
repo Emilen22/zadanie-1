@@ -5,5 +5,7 @@ public class zadanie1 {
         System.out.println("programowania");
         System.out.println("i");
         System.out.println("commitowania");
+        System.out.println("wersja 1.2");
+        System.out.println("build 0.8");
     }
 }
