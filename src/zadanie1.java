@@ -7,5 +7,6 @@ public class zadanie1 {
         System.out.println("commitowania");
         System.out.println("wersja 1.2");
         System.out.println("build 0.8");
+        System.out.println("hotfix 1.7");
     }
 }
